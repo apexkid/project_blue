@@ -17,7 +17,7 @@ Class AdminLogin
 				exit();
 			}
 			else
-				$this -> mLoginMessage = 'Login Failed. Please Try Again';
+				$this -> mLoginMessage = 'Login Failed. Please Try Again. Thank You.';
 		}
 		$this -> mLinkToAdmin = Link::ToAdmin();
 		$this -> mLinkToIndex = Link::ToIndex();
