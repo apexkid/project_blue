@@ -1,0 +1,1 @@
+Nothing fancy. Just a very basic E-commerce script I've been learning from a tutorial. And thought it'd be a good idea to learn github on the way too .
