@@ -1,0 +1,1 @@
+{* SMARTY BLANK PAGE *}
